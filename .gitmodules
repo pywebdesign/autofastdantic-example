@@ -1,0 +1,3 @@
+[submodule "autofastdantic"]
+	path = autofastdantic
+	url = ./autofastdantic/
